@@ -13,8 +13,6 @@ const featuresData: Feature[] = [
       </svg>
     ),
     title: "Crafted for Startups",
-    paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
   },
   {
     id: 1,
@@ -28,8 +26,6 @@ const featuresData: Feature[] = [
       </svg>
     ),
     title: "High-quality Design",
-    paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
   },
   {
     id: 1,
@@ -43,8 +39,6 @@ const featuresData: Feature[] = [
       </svg>
     ),
     title: "Next.js 13 (Latest)",
-    paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
   },
   {
     id: 1,
@@ -58,8 +52,6 @@ const featuresData: Feature[] = [
       </svg>
     ),
     title: "Tailwind CSS",
-    paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
   },
   {
     id: 1,
@@ -73,8 +65,6 @@ const featuresData: Feature[] = [
       </svg>
     ),
     title: "Fully Customizable",
-    paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
   },
   {
     id: 1,
@@ -88,8 +78,6 @@ const featuresData: Feature[] = [
       </svg>
     ),
     title: "Free and Open-Source",
-    paragraph:
-      "Tuae nam ex similique incidunt expedita exerci tationem laudantium. Repellendus quisquam numquam perferendis earum sapiente non tempore? Fugit repellat ut maiores.",
   },
 ];
 export default featuresData;
